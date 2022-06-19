@@ -1,6 +1,5 @@
 const TemplateExpressions = () => {
 
-    const name = 'Jocely'
 
     let number1 = 534;
     let number2 =254;
